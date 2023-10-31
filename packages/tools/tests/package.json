@@ -28,7 +28,7 @@
         "@types/jest": "^27.4.0",
         "@types/jest-image-snapshot": "^4.3.1",
         "@types/react": "^17.0.30",
-        "@types/react-dom": "^17.0.10",
+        "@types/react-dom": "^18.2.14",
         "jest": "^27.4.7",
         "jest-puppeteer": "^6.0.3",
         "sass": "^1.62.1",
