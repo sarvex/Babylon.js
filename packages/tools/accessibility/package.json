@@ -27,7 +27,7 @@
         "@dev/loaders": "^1.0.0",
         "@types/react": "^17.0.30",
         "@types/react-dom": "^18.2.14",
-        "sass": "^1.62.1",
+        "sass": "1.69.2",
         "react": "^17.0.2",
         "react-dom": "^18.2.0"
     },
