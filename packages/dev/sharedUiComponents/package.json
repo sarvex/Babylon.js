@@ -34,22 +34,22 @@
         "react-dnd-touch-backend": "15.0.1"
     },
     "devDependencies": {
-        "@babel/core": "^7.17.9",
+        "@babel/core": "7.23.0",
         "@dev/core": "^1.0.0",
         "@dev/gui": "^1.0.0",
         "@fortawesome/fontawesome-svg-core": "^6.1.0",
         "@fortawesome/free-solid-svg-icons": "^6.0.0",
         "@fortawesome/react-fontawesome": "^0.2.0",
-        "@storybook/addon-actions": "^7.0.0-alpha.47",
-        "@storybook/addon-essentials": "^7.0.0-alpha.47",
-        "@storybook/addon-interactions": "^7.0.0-alpha.47",
-        "@storybook/addon-links": "^7.0.0-alpha.47",
-        "@storybook/react": "^7.0.0-alpha.47",
-        "@storybook/react-webpack5": "^7.0.0-alpha.47",
-        "@storybook/cli": "^7.0.0-alpha.47",
-        "@storybook/testing-library": "^0.1.0",
-        "sass": "^1.62.1",
-        "esbuild": "^0.15.12"
+        "@storybook/addon-actions": "7.4.6",
+        "@storybook/addon-essentials": "7.4.6",
+        "@storybook/addon-interactions": "7.4.6",
+        "@storybook/addon-links": "7.4.6",
+        "@storybook/react": "7.4.6",
+        "@storybook/react-webpack5": "7.4.6",
+        "@storybook/cli": "7.4.6",
+        "@storybook/testing-library": "0.1.0",
+        "sass": "1.69.2",
+        "esbuild": "0.15.18"
     },
     "sideEffects": false,
     "resolutions": {
